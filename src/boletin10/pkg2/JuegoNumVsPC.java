@@ -40,9 +40,7 @@ public class JuegoNumVsPC {
          }
     } while (nintentosf!=0);
          JOptionPane.showMessageDialog(null, "Ha agotado o número de intentos ou ha acertado o número");
-            
-    } else
-            JOptionPane.showMessageDialog(null, "No ha introducido un número entre 0 y 50, pulse iniciar");
-        }
     }
+   }
+}
 
